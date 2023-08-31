@@ -1,1 +1,1 @@
-# ThinkGPT
+# MindGPT
